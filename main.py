@@ -1,9 +1,16 @@
-import random
+# import random
 print("Hello World")
-
-a = 34
-b= 89
-
+"""
+dhskajdhakjdhiwqdhnxlkd
+suhjbcshacxbashuyxbashbkdysuxbs
+cbsjuisckjsiuckjsiubcsa
+bcjschskcss
+cbs
+"""
+a = 3
+b = 6
+# This is
 c = a+b
 print(c)
+print(b/a)
 
