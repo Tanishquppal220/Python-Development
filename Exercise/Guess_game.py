@@ -6,7 +6,7 @@ game_over = False
 
 while guess<=5:
     i = int(input("Enter a number:\n"))
-    if i<545: 
+    if i<n: 
         print("Higher")
         if guess==1:
             print("Game Over")
@@ -14,7 +14,7 @@ while guess<=5:
         else:
             guess -= 1
         print("Guess Left:",guess)
-    elif i>545:
+    elif i>n:
         print("Lower")
         if guess == 1:
             print("Game Over")
@@ -22,7 +22,7 @@ while guess<=5:
         else:
             guess -= 1
         print("Guess Left:", guess)
-    elif i==545:
+    elif i==n:
         print("Correct")
         break
 
