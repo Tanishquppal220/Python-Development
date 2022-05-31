@@ -1,8 +1,11 @@
 # File Basics
-f = open("File_IO\\Text.txt", "rt")
-
-# content = f.read()
+f = open("File_IO\\line.txt","rt")
+print(f.readline(), end="")
+print(f.readline(), end="")
+print(f.readline(), end="")
+'''
+content = f.read()
 for line in f:
     print(line)
-
+'''
 f.close()
