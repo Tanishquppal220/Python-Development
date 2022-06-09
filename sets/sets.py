@@ -1,6 +1,0 @@
-s = set("")
-print(s)
-s.add("Hello World")
-s.add("Hello World")
-s.add("Hello Tanishq")
-print(s)
