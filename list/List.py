@@ -12,6 +12,7 @@ print(num)
 '''
 # Tuple
 tp = (4, 6, 54, 22, 6)
+print(tp)
 # tp[1]=8
 
 a = 45
