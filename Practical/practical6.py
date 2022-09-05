@@ -16,7 +16,6 @@ a = int(input("Enter the number:"))
 #     print(b*i)
 #     i=i-1
 while a>=1:
-    b = "*"
-    print(b*a)
+    print("*"*a)
     a = a-1
     
