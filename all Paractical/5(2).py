@@ -1,7 +1,7 @@
 x = int(input("Enter the value of x: "))
 n = int(input("Enter the value of n: "))
 sum=1
-for i in range(1, n):
+for i in range(1, n+1):
     term = x ** i
     if i%2==0:
         sum +=term
