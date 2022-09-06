@@ -5,3 +5,10 @@ for r in range(0,a+1):
         print(chr(c), sep=" ", end=" ")
         c = c+1
     print()
+
+print("================================================")
+for r in range(a, 0, -1):
+    for c in range(b, b+r):
+        print(chr(c), sep=" ", end=" ")
+        c = c-1
+    print()

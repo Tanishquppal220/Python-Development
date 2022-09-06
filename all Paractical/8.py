@@ -1,5 +1,7 @@
-a = int(input("Enter the first term: "))
-b = int(input("Enter the Second term: "))
+# a = int(input("Enter the first term: "))
+# b = int(input("Enter the Second term: "))
+a=1
+b=1
 n = int(input("Enter the Total number of term: "))
 sum = a+b
 print(a, b, end=" ")
