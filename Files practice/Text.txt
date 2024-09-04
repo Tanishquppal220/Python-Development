@@ -1,0 +1,16 @@
+A = 5
+B = 6
+C = 11
+sum of 2 numbers is 11
+A = 8
+B = 7
+C = 15
+sum of 2 numbers is 15
+A = 7
+B = 8
+C = 15
+sum of 2 numbers is 15
+A = 869
+B = 562
+C = 1431
+sum of 2 numbers is 1431

@@ -1,0 +1,7 @@
+1. Add Student Details
+2. Display Student Details 
+3. Student with More Than 75% Marks
+4. Delete Student Details
+5. Delete whole dictionary
+6. Print Whole dict
+7. Exit
