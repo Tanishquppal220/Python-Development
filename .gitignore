@@ -1,1 +1,3 @@
-/*.pdf
+*.pdf
+.vscode
+test.py
